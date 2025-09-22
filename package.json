@@ -22,17 +22,20 @@
     "ai": "^5.0.44",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "csv-parser": "^3.2.0",
     "embla-carousel-react": "^8.6.0",
     "lucide-react": "^0.544.0",
     "nanoid": "^5.1.5",
     "next": "15.5.3",
+    "pdf-parse": "^1.1.1",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-syntax-highlighter": "^15.6.6",
     "streamdown": "^1.2.0",
     "tailwind-merge": "^3.3.1",
     "tokenlens": "^1.2.1",
-    "use-stick-to-bottom": "^1.1.1"
+    "use-stick-to-bottom": "^1.1.1",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
